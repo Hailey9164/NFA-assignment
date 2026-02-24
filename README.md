@@ -1,0 +1,2 @@
+# NFA assignment
+Design NFAs
