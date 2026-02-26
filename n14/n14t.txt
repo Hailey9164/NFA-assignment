@@ -1,0 +1,15 @@
+epsilon	accept
+10	accept
+01	accept
+11	accept
+00 	accept
+1111	accept
+0000	accept
+1010	accept
+0101	accept
+1	reject
+0	reject
+111	reject
+000	reject
+101	reject
+010	reject
